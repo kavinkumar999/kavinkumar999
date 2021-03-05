@@ -30,7 +30,7 @@ I love ❤️ to contribute open source and passionate to learn new skills and l
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Exploring AI 
+- 🔭 I’m currently Exploring AI and cloud
 - 🌱 I’m currently learning Machine Learning 
 - 👯 Always love to collabrate 
 - 💬 Ask me about anything, I would be glad to help you
