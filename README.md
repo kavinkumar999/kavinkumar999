@@ -1,5 +1,6 @@
 ## Hi there, I m Kavin <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
-#### I love ❤️ to contribute open source and passionate to learn new skills and leverage them into solve real-world problmes
+
+I love ❤️ to contribute open source and passionate to learn new skills and leverage them into solve real-world problmes
 <br>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
