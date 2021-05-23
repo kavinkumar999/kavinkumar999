@@ -37,5 +37,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/kavin-kumar-1999k/"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0/1590003577120?e=1629331200&v=beta&t=i1hRsy2nAapDyzIdOwfFQqiPRNj8z0BLHYViOG0o6pA" alt="mysql" width="15" height="15"/></a></span>
 
 
+
+![kavinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavinkumar999&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumar999&langs_count=8&layout=compact)](https://github.com/kavinkumar999/github-readme-stats)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar999s&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+
 **Visitors Count**<br>
 ![VisitorCount](https://profile-counter.glitch.me/{kavinkumar999}/count.svg)
