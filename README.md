@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumar999&langs_count=8&layout=compact)](https://github.com/kavinkumar999/github-readme-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar999s&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar999&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 **Visitors Count**<br>
 ![VisitorCount](https://profile-counter.glitch.me/{kavinkumar999}/count.svg)
