@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 
 **Visitors Count**<br>
 ![VisitorCount](https://profile-counter.glitch.me/{kavinkumar999}/count.svg)
+
+[![Kavin Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kavinkumar999&theme=react-dark)](https://github.com/kavinkumar999/github-readme-activity-graph)
