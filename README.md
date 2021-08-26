@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and different algorithms
 - 👯 Always love to collabrate 
 - 💬 Ask me about anything, I would be glad to help you
-- 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/kavin-kumar-1999k/"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0/1590003577120?e=1629331200&v=beta&t=i1hRsy2nAapDyzIdOwfFQqiPRNj8z0BLHYViOG0o6pA" alt="linkedin" width="15" height="15"/></a></span>
+- 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/kavin-kumar-1999k/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="padding-top: 7px;" alt="linkedin" width="65" height="25"/></a></span>
 
 
 
