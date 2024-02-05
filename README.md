@@ -29,12 +29,10 @@ I love ❤️ to contribute open source and am passionate about learning new ski
 <hr>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Exploring AI and cloud technologies
-- 🌱 I’m currently learning Machine Learning and different algorithms
-- 👯 Always love to collaborate 
-- 💬 Ask me about anything, I would be glad to help you
-- 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/kavinkumar999/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="padding-top: 7px;" alt="LinkedIn" width="65" height="25"/></a></span>
-
+* * 🖥️  See my portfolio at [Kavin.dev](http://kavinkumar999.github.io/)
+* 🔭 I’m currently Exploring AI and cloud technologies
+* 🌱 I’m currently learning Machine Learning and different algorithms
+* ⚡  Alone, we can do so little; together, we can move mountains
 
 
 ![kavinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavinkumar999&show_icons=true&theme=radical)
