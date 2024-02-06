@@ -35,7 +35,7 @@ Passionate about contributing to open source and dedicated to learning new skill
 
 ![Kavinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavinkumar999&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumar999&langs_count=8&layout=compact)](https://github.com/kavinkumar999/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar999&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar999&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 **Visitors Count**<br>
 ![VisitorCount](https://profile-counter.glitch.me/{kavinkumar999}/count.svg)
