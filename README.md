@@ -120,7 +120,7 @@ Passionate about contributing to open source and dedicated to learning new skill
 
 ## About Me
 
-- 🖥️  See my portfolio at [Kavin.dev](http://kavinkumar999.github.io/)
+- 🖥️  See my portfolio at [Kavin.dev](https://kavinkumar.me/)
 - 🔭 Currently exploring AI and cloud technologies
 - 🌱 Learning Machine Learning and various algorithms
 - ⚡ "Alone, we can do so little; together, we can move mountains"
