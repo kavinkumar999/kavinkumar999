@@ -1,6 +1,6 @@
 # Hi there, I'm Kavin! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" alt="Waving hand">
 
-I’m a software engineer who builds **web products and backend systems**, and I’m increasingly working at the intersection of **software and AI**. I care about clear design, maintainable code, and getting ideas to something people can actually use.
+I’m a software engineer, builds **web products and backend systems**, and I’m increasingly working at the intersection of **software and AI**. I care about clear design, maintainable code, and getting ideas to something people can actually use.
 
 ![Profile views](https://komarev.com/ghpvc/?username=kavinkumar999&label=Profile%20views&color=blueviolet&style=flat)
 
